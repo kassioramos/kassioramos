@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kassio Ramos
 **`🧠🤖 Aprendiz De Tecnologia`**
-Eu me chamo Kassio Ramos, tenho 36 anos, sou natural do Pará, tualmente moro no estado do Maranhão. Possuo ensino médio completo, e Sonho em me formar em um curso superior da aréa tecnológica. Sou apaixonado por tecnologia, Vivo pesquisando e aprendendo coisas novas que envove, o meio da programação, espero um dia viver da tecnólogia e contribui de alguma forma para o mercado.
+Eu me chamo Kassio Ramos, tenho 36 anos, sou natural do Pará, atualmente moro no estado do Maranhão. Possuo ensino médio completo, e Sonho em me formar, em um curso superior da aréa tecnológica. Sou apaixonado por tecnologia, Vivo pesquisando e aprendendo coisas novas que envouve, o meio da programação, espero um dia, viver da tecnólogia e contribuir de alguma forma para o mercado.
 <p>
 <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/kassioramos">
 
