@@ -17,7 +17,7 @@ Eu me chamo Kassio Ramos, tenho 36 anos, sou natural do Pará, atualmente moro n
 
 </p>
 
-## Tecnológias
+## Tecnologias
 
 
 
@@ -80,7 +80,7 @@ style="pading-right:10px;"
 <br>
 
 
-## 📉 Estatisticas
+## 📉 Estatísticas
 
 
 <p>
